@@ -1,5 +1,5 @@
 # mrcnn_on_baby
-train / val dataset 
+ Fichier MRCNN_APAIX_C avec les résultats et les matrices de confusion envoyer sur TEAMS car le fichier est trop lourd pour être chargé ici
 
 main python file MRCNN_APAIX_C as main file
 test images (that are mistakes or not) dossier images
@@ -18,7 +18,7 @@ Ce projet vise à utiliser le model MRCNN pour effectuer une detection du visage
 ## Méthodologie
 
 1. **Collection des Données :**  
-   Le projet s'appuie sur un jeu de données constitué de 3 sous dossiers : train/test/valid contenant chacun 10 images de bébés et un fichier d'annotation correspondant aux images du sous dossier. Cependant, la taille limitée du jeu de données (30 images) a été une contrainte majeure.
+   Le projet s'appuie sur un jeu de données constitué de 3 sous dossiers : train/test/valid contenant chacun 10 images de bébés et un fichier d'annotation correspondant aux images du sous dossier. Cependant, la taille limitée du jeu de données a été une contrainte majeure.
 
 2. **Augmentation des Données :**  
    Afin de pallier le manque d'images, diverses techniques d'augmentation des données ont été mises en œuvre, telles que :
@@ -53,5 +53,5 @@ Ce projet vise à utiliser le model MRCNN pour effectuer une detection du visage
 ## Conclusion
 
 Ce projet, bien qu'incomplet, constitue une étape importante dans la compréhension des défis liés au comuter vision. Les enseignements tirés orienteront les efforts futurs pour surmonter les limitations actuelles.
-
+Vous trouverez à la fin de mon travail en supplément des essaies d'application au format vidéo, dont vous avez le résultats dans l'output_video
 
