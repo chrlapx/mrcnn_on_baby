@@ -1,5 +1,6 @@
 # mrcnn_on_baby
  Fichier MRCNN_APAIX_C avec les résultats et les matrices de confusion envoyer sur TEAMS car le fichier est trop lourd pour être chargé ici
+ le fichier training_logs(8) contients les logs pour la configuartion 1 avec 100 epochs et le fichier training_logs contient le model 0 avec 50 epochs
 
 main python file MRCNN_APAIX_C as main file
 test images (that are mistakes or not) dossier images
